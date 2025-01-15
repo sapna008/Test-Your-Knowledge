@@ -114,6 +114,6 @@ Found a bug? Please open an issue with:
 
 ## 📞 Contact
 
-[Your Name] - [Your Email]
+[sapna Sarkar] - [sapnapks1@gmail.com]
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: [https://github.com/sapna008/Test-Your-Knowledge.git](https://github.com/sapna008/Test-Your-Knowledge.git)
